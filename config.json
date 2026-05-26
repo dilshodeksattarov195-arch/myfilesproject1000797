@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservave",
+        "uuid": 773090,
+        "checksum": "4fuiq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
